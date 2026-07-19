@@ -4,7 +4,7 @@ An interactive **HR Analytics Dashboard** built with **Microsoft Power BI** to a
 ---
 ## 📸 Dashboard Preview
 > Replace the image below with your dashboard screenshot after uploading it to the repository.
-![HR Analytics Dashboard](Images/dashboard-overview.png)
+![HR Analytics Dashboard](Images/hr-analytics-dashboard-powerbi.png)
 ---
 ## 🎯 Project Objectives
 - Analyze employee attrition trends.
