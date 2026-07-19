@@ -134,14 +134,11 @@ This dashboard enables organizations to:
 ```text
 HR-Analytics-Dashboard-PowerBI/
 │
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Dashboard.pbix
 │
-├── Dataset/
-│   └── HR_Employee_Data.xlsx
+├── HR_Employee_Data.xlsx
 │
-├── Images/
-│   └── dashboard-overview.png
+├── dashboard-overview.png
 │
 ├── README.md
 ├── LICENSE
