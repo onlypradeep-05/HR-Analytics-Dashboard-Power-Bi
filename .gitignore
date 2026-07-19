@@ -1,0 +1,14 @@
+# Power BI autosave
+*.pbix.autosave
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
