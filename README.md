@@ -3,8 +3,7 @@
 An interactive **HR Analytics Dashboard** built with **Microsoft Power BI** to analyze employee attrition, workforce demographics, job satisfaction, education, and department-wise performance. This dashboard helps HR teams make data-driven decisions for employee retention and workforce planning.
 ---
 ## 📸 Dashboard Preview
-> Replace the image below with your dashboard screenshot after uploading it to the repository.
-![HR Analytics Dashboard](Images/hr-analytics-dashboard-powerbi.png)
+![HR Analytics Dashboard](hr-analytics-dashboard-powerbi.png)
 ---
 ## 🎯 Project Objectives
 - Analyze employee attrition trends.
